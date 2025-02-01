@@ -1,4 +1,4 @@
-👋 Hi, I’m Thimathi Dissanayake!
+👋 Hi, I’m Chathura Manahara Dissanayake!
 
 🎯 Aspiring Software Engineer | Passionate Programmer | Tech Enthusiast
 

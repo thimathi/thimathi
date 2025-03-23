@@ -40,7 +40,7 @@
 
 ### 🔧 Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,php,dart,flutter,react,android,aws,git,github,vscode,linux,mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php,dart,flutter,react,aws,git,github,vscode,linux,mysql,mongodb,postgres" />
 </p>
 
 ---

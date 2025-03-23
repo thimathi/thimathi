@@ -56,10 +56,10 @@
 
 ---
 
-### 🎉 Contributions This Month
+### 🎉 Summary of Contributions 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thimathi/thimathi/main/contributions-badge.svg" alt="Contribution Badge" />
+<p>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="max-width: 100%;"></a>
 </p>
 
 ---

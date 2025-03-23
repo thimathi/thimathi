@@ -55,17 +55,11 @@
 </p>
 
 ---
+
 ### 🎉 Summary of Contributions 
 
 <p>
-  <img src="https://raw.githubusercontent.com/thimathi/thimathi/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-### 🎉 Summary of Contributions 
-
-<p>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"><img alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/thimathi/thimathi/output/snake.svg"><img alt="Coding" width="100%" src="https://raw.githubusercontent.com/thimathi/thimathi/output/snake.svg" style="max-width: 100%;"></a>
 </p>
 
 ---

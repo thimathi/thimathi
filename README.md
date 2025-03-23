@@ -1,5 +1,4 @@
 <h1 align="center">Hi there! 👋 I'm Thimathi Dissanayake</h1>
-<h3 align="center">Aspiring Software Engineer | Passionate Programmer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thimathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Full+Stack+Developer|Mobile+App+Enthusiast;Open+Source+Contributor|Life+long+Learner;Spring+Boot+|+React+|+Node.js+|+Python;Kotlin+|+Flutter+|+React+Native+|+Java+|+JS" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&width=550&lines=Aspiring+Software+Engineer+|Life+long+Learner;Mobile+App+Enthusiast+|Passionate+Programmer+|+;Spring+Boot+|+React+|+Node.js+|+Python+|TS;Kotlin+|+Flutter+|+React+Native+|+Java+|+JS" />
 </p>
 
 ---

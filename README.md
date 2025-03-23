@@ -55,3 +55,11 @@
 </p>
 
 ---
+
+### 🎉 Contributions This Month
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thimathi/thimathi/main/contributions-badge.svg" alt="Contribution Badge" />
+</p>
+
+---

@@ -55,7 +55,13 @@
 </p>
 
 ---
+### 🎉 Summary of Contributions 
 
+<p>
+  <img src="https://raw.githubusercontent.com/thimathi/thimathi/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
 ### 🎉 Summary of Contributions 
 
 <p>

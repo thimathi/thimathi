@@ -74,6 +74,6 @@
 | [**Baby Mine App**](https://github.com/thimathi/BabyCareApp) | A smart baby care mobile application integrating real-time monitoring, Firebase, and IoT sensors. | `React Native`, `Firebase`, `NodeMCU`, `IoT` |
 | [**JD Computers & Electronics**](https://github.com/thimathi/JD_Computers_And_Electronics) | Inventory and sales management system for a tech shop, built with a Swing-based Java GUI. | `Java`, `Swing`, `MySQL` |
 | [**NES EDU CAD**](https://github.com/Bhanu2001829/MAD-project) | Educational course management app for mobile devices, helping students access learning resources easily. | `Flutter`, `Dart`, `Firebase` |
-| [**Aurevia**](https://github.com/thimathi/Aurevia) | An AI-driven emotional chatbot and Comprehensive Health and Wellness App created for a machine learning coursework. | `Python`, `Scikit-learn`, `NLTK`, `MySQL` |
+| [**Employee Management System**](https://github.com/thimathi/the_sixth_automotive) | The Sixth Automotive - Employee Management System (EMS) is a desktop-based HR and payroll management solution designed to automate and streamline employee operations in an automotive workshop environment. | `React-JS`, `Node.JS`, `Axios`, `MySQL` |
 
 ---

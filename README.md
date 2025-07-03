@@ -2,12 +2,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thimathi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://badges.pufler.dev/years/thimathi" alt="Years on GitHub" />
-  <img src="https://badges.pufler.dev/repos/thimathi" alt="Total Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=700&lines=Aspiring+Software+Engineer;Passionate+Mobile+App+Developer;React+Native+|+Spring+Boot+|+Flutter+|+Firebase+|+Node.js;Life-long+Learner+|+Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=700&lines=Aspiring+Software+Engineer;Passionate+Mobile+App+Developer;React+Native+|+Spring+Boot+|+C#+|+Firebase+|+Node.js;Life-long+Learner+|+Open+Source+Enthusiast" />
 </p>
 
 ---

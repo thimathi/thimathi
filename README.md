@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 🎓 HND in Software Engineering | NIBM  
-- 🔭 Currently working on: [Baby Mine 👶](https://github.com/thimathi/BabyCareApp?tab=readme-ov-file)  
+- 🔭 Currently working on: [Baby Mine 👶](https://github.com/thimathi/baby_mine?tab=readme-ov-file)  
 - 🌱 Learning: React Native, ES6+, Dart, AWS  
 - 🤝 Collaborating on: [NES EDU CAD 📚](https://github.com/Bhanu2001829/MAD-project)  
 - 🧩 Open to contributions and learning together!  
